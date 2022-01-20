@@ -1,0 +1,147 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color:  #40514E;
+}
+h1{
+    margin-top: 0;
+    padding: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.5rem;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-weight: bolder;
+}
+span{
+    text-decoration: underline;
+}
+.top{
+    padding-top: 100px;
+    position: relative;
+    background-color: #e0ebe8;
+}
+
+p{
+    
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 2;
+    font-size: 18px;
+    
+}
+
+.cloud1{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+.cloud2{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+.dp{
+    border-radius: 50%;
+    width: 30%;
+}
+.dp1{
+    border-radius: 50%;
+    width: 25%;
+    float: left;
+    margin: 20px;
+}
+.dp2{
+    border-radius: 50%;
+    width: 25%;
+    float: right;
+    margin: 20px;
+}
+.skills{
+    width: 50%;
+    margin: 100px auto;
+   
+}
+.skill-row{
+     margin: 100px auto;
+    text-align: right;
+    
+}
+.skill-row1{
+    
+    text-align: left;
+}
+.profile{
+    
+    width: 50%;
+    margin: auto;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.bottom{
+    padding: 40px;
+    background-color:   #66BFBF;
+}
+.footer-link{
+    text-decoration: none;
+    padding: 30px 20px;
+    font-size: large;
+
+}
+.copyr{
+    color: #EAF6F6;
+    font-size: small;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #e0ebe8;
+    font-size: 18px;
+    background: #11999E;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #a7e2d2;
+    text-decoration: none;
+  }
+  .footer-link:hover{
+    color: #e0ebe8;
+  }
+  .btn-margin{
+      margin: 50px;
+  }
+  .contact-me{
+      margin: 100px auto;
+  }
+
+  .info{
+   width: 50%;
+   margin: 40px auto;
+  }
+
+hr{
+    border-style: dotted none none none;
+    width: 4%;
+    border-width: 6px;
+    color: rgb(184, 182, 182)
+}
