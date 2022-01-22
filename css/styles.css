@@ -135,7 +135,7 @@ a{
   }
 
   .info{
-   width: 50%;
+   width: 60%;
    margin: 40px auto;
   }
 
@@ -144,4 +144,7 @@ hr{
     width: 4%;
     border-width: 6px;
     color: rgb(184, 182, 182)
+}
+.mount{
+    width: 50%;
 }
